@@ -55,7 +55,7 @@ Official Documentation
 
 NumPy Tutorials
 
-SciPy Lecture Notes
+ Apna college Lecture Notes
 
 🤝 Contributing
 Fork the repository
@@ -68,7 +68,6 @@ Push to branch (git push origin feature-name)
 
 Open a Pull Request
 
-See [Looks like the result wasn't safe to show. Let's switch things up and try something else!] for more details.
 
 🛠️ Testing
 Run the test suite with:
